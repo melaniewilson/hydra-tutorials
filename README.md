@@ -11,4 +11,4 @@ For more information, please review the links below.
   * [Gallery of user-generated sketches](https://twitter.com/hydra_patterns?lang=es)  
   * [Read a interview about the motivations for creating hydra](https://www.youtube.com/watch?v=cw7tPDrFIQg)  
 
-Check out the [examples]() here. 
+Check out the [examples](https://github.com/melaniewilson/hydra-tutorials/) here. 
